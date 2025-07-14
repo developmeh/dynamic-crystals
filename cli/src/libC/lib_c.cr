@@ -7,4 +7,3 @@ lib LibC
   fun dlvsym(handle : Void*, name : Char*, version : Char*) : Void*
   fun dladdr(address : Void*, info : DlInfo*) : Int
 end
-
