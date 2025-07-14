@@ -1,0 +1,9 @@
+name: injector
+version: 0.1.0
+
+authors:
+  - Paul Scarrone <paul@scarrone.co>
+
+crystal: '>= 1.16.3'
+
+license: MIT
